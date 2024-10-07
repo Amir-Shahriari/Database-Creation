@@ -1,7 +1,3 @@
-###UNIT CODE : COMP2350                                        ###ASSIGNMENT 3
-###STUDENT ID : 45747067                                       ###Amir Hossein Shahriari
-###TUTOR'S NAME : Malik Khizar                                 ###Monday 6PM
-
 ##task 1
 #for this task first i add the new column to the Member table with this statement
 ALTER TABLE Member ADD FineFee DECIMAL(10,2)  DEFAULT 0;
